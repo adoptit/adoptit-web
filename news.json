@@ -1,0 +1,47 @@
+{
+  "updated": "2026-10-06T15:00:00.000Z",
+  "items": [
+    {
+      "title": "New Microsoft data innovations unlock what only your business knows",
+      "url": "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/",
+      "date": "2026-09-29T06:30:04.000Z",
+      "source": "Official Microsoft Blog",
+      "summary": "Fabric IQ brings governed Power BI business context into Copilot Chat and Cowork."
+    },
+    {
+      "title": "Introducing the new Copilot with Home, Code and Autopilot",
+      "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "date": "2026-09-25T12:03:50.000Z",
+      "source": "Official Microsoft Blog",
+      "summary": "Copilot gets a new Home where Chat and Cowork meet, Code for building your own solutions, and Autopilot as a persistent agent."
+    },
+    {
+      "title": "What we’ve learned from Microsoft’s own AI transformation",
+      "url": "https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation/",
+      "date": "2026-09-17T14:00:05.000Z",
+      "source": "Official Microsoft Blog",
+      "summary": "Five lessons from Microsoft as Customer Zero: start with business outcomes, redesign workflows and put people at the center."
+    },
+    {
+      "title": "Build apps in Copilot Cowork and Copilot Studio",
+      "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/build-apps-in-copilot-cowork-and-copilot-studio/",
+      "date": "2026-09-10T15:00:00.000Z",
+      "source": "Microsoft 365 Blog",
+      "summary": "Full-stack business apps built through conversation, grounded in your own data."
+    },
+    {
+      "title": "ESPC 2026 is coming to Amsterdam: Bringing Microsoft and the community together",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/09/10/espc-2026-is-coming-to-amsterdam-bringing-microsoft-and-the-community-together/",
+      "date": "2026-09-10T16:00:00.000Z",
+      "source": "Microsoft 365 Blog",
+      "summary": "Microsoft 365, Copilot, agents and AI on the agenda at ESPC 2026 in Amsterdam."
+    },
+    {
+      "title": "The next measure of AI momentum is work transformed",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
+      "date": "2026-07-30T13:00:00.000Z",
+      "source": "Microsoft 365 Blog",
+      "summary": "Microsoft 365 Copilot passes 30 million paid seats – the focus now shifts to how work actually changes."
+    }
+  ]
+}
